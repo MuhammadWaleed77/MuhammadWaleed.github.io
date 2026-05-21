@@ -81,7 +81,7 @@ The question isn’t whether it’s possible — it’s whether you’re ready t
 If you want AI that works and **creates real business outcomes**:  
 
 - **Email:** waleed9809@gmail.com  
-- **LinkedIn:** [Your Profile]  
-- **GitHub:** [Your Repo]  
+- **LinkedIn:** [[ Profile]](https://www.linkedin.com/in/muhammadwaleedsqa/)  
+ 
 
 > Let’s talk about the results your AI system can deliver — not just what it can do.
